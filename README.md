@@ -1,7 +1,7 @@
 # Reconocimiento de patrones
 Practicas dirigidas al reconocimiento de patrones aplicado a imagenes.
 
-##Práctica 1
+**Práctica 1**
 En la práctica 1 se realizó:
 * El uso de diversas bibliotecas de Python para la manipulación de imágenes tales como skImage, PIL, OpenCV y matplotlib
 * Se relizaron una división de canales RGB en imágenes.
