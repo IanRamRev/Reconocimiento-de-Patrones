@@ -1,6 +1,6 @@
 *.tif
 *.jpg
-.png
+*.png
 
 Imagenes/
 ipynb_checkpoints/
