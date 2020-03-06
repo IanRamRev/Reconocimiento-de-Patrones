@@ -1,10 +1,12 @@
 *.tif
 *.jpg
 *.png
+*.csv
 
 Imagenes/
 ipynb_checkpoints/
 /ActividadIris/.ipynb_checkpoints
+/ActividadIris/Datos/
 
 
 
