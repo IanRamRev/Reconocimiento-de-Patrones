@@ -2,6 +2,7 @@
 *.jpg
 *.png
 *.csv
+*.bmp
 
 Imagenes/
 ipynb_checkpoints/
@@ -9,4 +10,5 @@ ipynb_checkpoints/
 /ActividadIris/Datos/
 /RuidoBlanco/.ipynb_checkpoints
 /RuidoBlanco/Espinoza_Martínez_Ramírez_Iris.rar
-
+/Practica3/.ipynb_checkpoints
+/Practica3/texturas
