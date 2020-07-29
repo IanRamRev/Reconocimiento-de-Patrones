@@ -5,7 +5,7 @@
 *.bmp
 
 Imagenes/
-ipynb_checkpoints/
+.ipynb_checkpoints/
 /ActividadIris/.ipynb_checkpoints
 /ActividadIris/Datos/
 /RuidoBlanco/.ipynb_checkpoints
